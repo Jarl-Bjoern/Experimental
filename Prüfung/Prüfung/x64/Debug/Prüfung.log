@@ -1,0 +1,4 @@
+﻿  Test.cpp
+C:\Users\Björn\source\repos\Prüfung\Prüfung\Test.cpp(4,16): warning C4081: "(" erwartet; "<" gefunden
+Test.obj : error LNK2005: main ist bereits in main.obj definiert.
+C:\Users\Björn\source\repos\Prüfung\x64\Debug\Prüfung.exe : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.

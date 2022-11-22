@@ -1,0 +1,3 @@
+﻿  Test.cpp
+C:\Users\Björn\source\repos\Prüfung\Prüfung\Test.cpp(4,16): warning C4081: "(" erwartet; "<" gefunden
+  Prüfung_02.vcxproj -> C:\Users\Björn\source\repos\Prüfung\x64\Debug\Prüfung_02.exe
